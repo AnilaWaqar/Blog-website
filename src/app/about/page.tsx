@@ -9,9 +9,9 @@ function page() {
       <p>At SR Blog, we believe in the power of words to inspire, inform, and connect. Our team of passionate writers and contributors shares articles on a wide range of topics, including technology, lifestyle, education, innovation, and more. Each post is crafted with care, aiming to spark curiosity and provide value to our readers.</p>
       <hr className='h-[3px] bg-white' />
       <h2 className='text-2xl font-semibold text-[#BC382E]'>Why choose us?</h2>
-      <p>Because we are more than just a blog. We are a community of thinkers and doers who value meaningful conversations and learning together. Whether you're a tech enthusiast, a creative soul, or someone seeking inspiration, there's something here for everyone.</p>
+      <p>Because we are more than just a blog. We are a community of thinkers and doers who value meaningful conversations and learning together. Whether you are a tech enthusiast, a creative soul, or someone seeking inspiration, there is something here for everyone.</p>
       <hr className='h-[3px] bg-white' />
-      <p>Thank you for visiting [Your Blog Name]. We invite you to explore, comment, and join us on this journey of discovery and growth. Let's create and share something extraordinary together!
+      <p>Thank you for visiting [Your Blog Name]. We invite you to explore, comment, and join us on this journey of discovery and growth. Lets create and share something extraordinary together!
       </p>
       <h2 className='text-2xl font-semibold text-[#BC382E]'>Stay curious. Stay inspired.</h2>
     
