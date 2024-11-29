@@ -11,9 +11,9 @@ const BlogPost = ({ params }: { params: { slug: string } }) => {
 
   if (!post) {
       return(
-        <div>
+        <div className='h-[70vh]'>
         <BlogsNavbar />
-        <p className='text-center my-5 text-xl'>Post not found</p>
+        <p className='text-center mt-20 text-3xl underline text-white'>Post not found</p>
         </div>
       )
   }
