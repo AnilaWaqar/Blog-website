@@ -17,6 +17,7 @@ const BlogPost = ({ params }: { params: { slug: string } }) => {
         </div>
       )
   }
+  
 
 
   return (
