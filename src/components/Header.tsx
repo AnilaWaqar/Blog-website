@@ -12,7 +12,7 @@ function Header() {
       <header className="py-6 md:px-20 sm:px-10 px-5 flex justify-between text-white">
         <div className="relative z-10">
           <h1 className="sm:text-2xl text-xl z-20 font-bold italic font-serif drop-shadow-[0px_0px_5px_red]">
-            SR BLOGS
+             BLOGS
           </h1>
           <div className="sm:w-[140px] w-[120px] h-[10px] bg-[#1D2B34] blur-[5px] shadow-[0px_2px_20px_10px_#1D2B34] absolute top-[10px] -z-10 rounded-2xl "></div>
         </div>

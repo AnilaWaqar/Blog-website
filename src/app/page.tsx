@@ -17,7 +17,7 @@ export default function Home() {
       <h1 className="md:text-4xl sm:text-3xl text-2xl text-center text-white font-semibold my-3">Hello! Welcome to SR Blogs</h1>
       <div className=" text-lg text-center text-white">
       <p className="md:w-[70%] w-full mx-auto">
-      Welcome to SR Blog a space where ideas, knowledge, and creativity converge. Whether you are here to explore technology trends, gain insights into personal growth, or discover fresh perspectives, our blog is your destination for thoughtful and engaging content.
+      Welcome to My Blog a space where ideas, knowledge, and creativity converge. Whether you are here to explore technology trends, gain insights into personal growth, or discover fresh perspectives, our blog is your destination for thoughtful and engaging content.
       </p>
       <p>Stay Connected for the informative content in future</p>
       </div>
